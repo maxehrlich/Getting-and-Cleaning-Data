@@ -8,6 +8,10 @@ the folders:
 + train
 + test
 
+####requires: plyr
+
+for aggregating with ddply
+
 ### run the script in R:
 + files in folder test and train get read and get merged
 + reads features.txt
